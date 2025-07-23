@@ -128,8 +128,8 @@ col1, col2, col3 = st.columns(3)
 with col1:
     st.markdown("""
         <div style='text-align: center;'>
-            <img src='https://randomuser.me/api/portraits/women/44.jpg' class='testimonial-img'>
-            <div class='testimonial-name'>Ayesha Malik</div>
+            <img src='https://avatars.githubusercontent.com/u/155903223?v=4' class='testimonial-img'>
+            <div class='testimonial-name'>Syed Hammad</div>
             <div class='testimonial-text'>“Found books I never thought I'd love. Brilliant!”<br>⭐️⭐️⭐️⭐️⭐️</div>
         </div>
     """, unsafe_allow_html=True)
@@ -146,8 +146,8 @@ with col2:
 with col3:
     st.markdown("""
         <div style='text-align: center;'>
-            <img src='https://randomuser.me/api/portraits/women/65.jpg' class='testimonial-img'>
-            <div class='testimonial-name'>Sara Javed</div>
+            <img src='https://avatars.githubusercontent.com/u/151808307?v=4' class='testimonial-img'>
+            <div class='testimonial-name'>Umer Abbasi</div>
             <div class='testimonial-text'>“Love the clean interface and fast suggestions.”<br>⭐️⭐️⭐️⭐️</div>
         </div>
     """, unsafe_allow_html=True)
